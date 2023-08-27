@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Simon Andersson built the Guitar Tuner app as an Ad Supported app. This SERVICE is provided by Simon Andersson at no cost and is intended for use as is.
+Xerxz built the Guitar Tuner app as an Ad Supported app. This SERVICE is provided by Xerxz at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
