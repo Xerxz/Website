@@ -1,3 +1,8 @@
+---
+layout: page
+title: Chord Finder
+---
+
 **Privacy Policy**
 
 Xerxz built the Chord Finder 2 app as an Ad Supported app. This SERVICE is provided by Xerxz at no cost and is intended for use as is.
